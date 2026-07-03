@@ -77,3 +77,35 @@ multiple regions, products, salespersons and promotions.
 [Revenue without Promo])
 - Revenue MoM % = VAR CurrentMonth... RETURN DIVIDE(...)
 - Revenue YoY % = DIVIDE([Total Revenue] - CALCULATE(...), CALCULATE(...))
+
+  ---
+
+## Key Findings
+- Tablet led revenue at $684.54K, closely followed by Laptop and Printer
+- North region generated highest revenue at $968K out of $4.38M
+- Store D was top performing location at $1.21M
+- Promotions drove 75.47% of total revenue — business is heavily 
+  promotion-dependent
+- FreeShip was the best performing campaign at $1.24M
+- Bob led salesperson revenue at $797K
+- Return rate of 24.80% is critically high — 1 in 4 orders returned
+- Revenue declined 51.9% from March to October
+
+---
+
+## Tools Used
+- Microsoft Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query
+
+---
+
+## Files
+- `dashboard.pdf` — Full 5-page dashboard export
+- `README.md` — Project documentation
+
+---
+
+## Author
+**Onifade Oluwagbemiga**
+Data Analytics Intern — DecodeLabs
